@@ -1,11 +1,12 @@
-#terraform-openstack
-OpenStack examples using terraform.
+# Terraform and openstack 
 
-#Usage
-terraform init 
 
-#create the plan 
-terraform plan
 
-#apply the plan 
-terraform apply 
+# Do the following:
+- terraform init 
+- terraform plan
+- terraform apply 
+
+## Todo 
+
+- have instance with volume 
